@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quoc Quan</h1>
-<h3 align="center">A Mobile App Developer from Binh Phuoc</h3>
+<h3 align="center">A Mobile App Developer from Binh Phuoc <3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qquan2108&label=Profile%20views&color=0e75b6&style=flat" alt="qquan2108" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qquan2108" alt="qquan2108" /></a> </p>
 
 - 🔭 I’m currently working on **Hotel Manager App**
 
