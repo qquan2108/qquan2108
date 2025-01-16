@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, React Native**
 
-- My Project
+- 👨‍💻 My Project
   [Laptop Manager](https://github.com/qquan2108/Project1_Nhom4)
   [Libary Manager](https://github.com/qquan2108/LibMana_FPTPolytechnic)
 
