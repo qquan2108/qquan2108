@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qquan2108&label=Profile%20views&color=0e75b6&style=flat" alt="qquan2108" /> </p>
 
-- 🔭 I’m currently working on **Roomify App**
+- 🔭 I’m currently working on **HiPC App**
 
 - 🌱 I’m currently learning **Java, Kotlin, React Native**
 
